@@ -59,3 +59,11 @@ C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\ru
 C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
 C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
