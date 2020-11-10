@@ -67,3 +67,6 @@ C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\Mi
 C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
+C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\kevok\Documents\VS Code\Udemy\Dating App\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
